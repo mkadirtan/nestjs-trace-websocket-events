@@ -1,0 +1,1 @@
+export type AckFunction = (data: any) => void;
